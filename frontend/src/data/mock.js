@@ -8,7 +8,7 @@ export const mockData = {
     email: "yashporlekar8888@gmail.com",
     phone: "9763362074",
     linkedin: "https://www.linkedin.com/in/yashporlekar",
-    github: "#", // Placeholder
+    github: "https://github.com/yashporlekar8888/"
     bio: "I'm a passionate developer skilled in Java, Spring Boot, React, and modern web technologies. I love leveraging AI tools to optimize code, speed up development, and follow industry best practices. With hands-on experience in building scalable microservices and intuitive user interfaces, I strive to deliver innovative, business-focused solutions.",
     profileImage: "https://customer-assets.emergentagent.com/job_glass-portfolio-16/artifacts/69zivsvc_IMG_5198.jpeg"
   },
